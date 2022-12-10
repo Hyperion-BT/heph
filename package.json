@@ -1,0 +1,19 @@
+{
+  "name": "heph",
+  "version": "0.1.0",
+  "description": "Convenience library for use with Helios. UI components, Blockfrost interface, Wallet interface",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hyperion-BT/heph.git"
+  },
+  "keywords": [
+    "cardano",
+    "dapp"
+  ],
+  "author": "Christian Schmitz",
+  "license": "UNLICENSE",
+  "bugs": {
+    "url": "https://github.com/Hyperion-BT/heph/issues"
+  },
+  "homepage": "https://github.com/Hyperion-BT/heph#readme"
+}
